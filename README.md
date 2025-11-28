@@ -14,7 +14,7 @@ Telegram Bot для продажу одягу
 Встановлення та запуск
 
 1) Клонувати репозиторій
-git clone https://github.com/ваш_нікнейм/назва_репозиторію.git
+git clone https:https://github.com/mykhailovych/project_shop
 
 3) Створити та активувати віртуальне середовище (рекомендовано)
 python -m venv venv
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 4) Створити файл .env (для зберігання токена бота)
 
 5) Запустити бота
-python bot.py
+python bot_dimashop.py
 
 User Manual
 Як користуватися ботом:
