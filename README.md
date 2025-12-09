@@ -29,7 +29,7 @@ pip install -r requirements.txt
 4) Створити файл .env (для зберігання токена бота)
 
 5) Запустити бота
-python bot_dimashop.py
+python .\bot_dimashop.py
 
 User Manual
 Як користуватися ботом:
